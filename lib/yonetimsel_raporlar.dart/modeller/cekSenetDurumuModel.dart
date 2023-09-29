@@ -1,0 +1,31 @@
+class CekSenetDurumModel {
+  CekSenetDurumModel({
+    this.MUSTERICEKBUGUN,
+    this.MUSTERICEKBUHAFTA,
+    this.MUSTERICEKBUAY,
+    this.MUSTERISENETBUGUN,
+    this.MUSTERISENETBUHAFTA,
+    this.MUSTERISENETBUAY,
+    this.FIRMACEKBUGUN,
+    this.FIRMACEKBUHAFTA,
+    this.FIRMACEKBUAY,
+    this.FIRMASENETBUGUN,
+    this.FIRMASENETBUHAFTA,
+    this.FIRMASENETBUAY
+  });
+  double? MUSTERICEKBUGUN = 0.0;
+  double? MUSTERICEKBUHAFTA = 0.0;
+  double? MUSTERICEKBUAY = 0.0;
+
+  double? MUSTERISENETBUGUN = 0.0;
+  double? MUSTERISENETBUHAFTA = 0.0;
+  double? MUSTERISENETBUAY = 0.0;
+
+  double? FIRMACEKBUGUN = 0.0;
+  double? FIRMACEKBUHAFTA = 0.0;
+  double? FIRMACEKBUAY = 0.0;
+
+  double? FIRMASENETBUGUN = 0.0;
+  double? FIRMASENETBUHAFTA = 0.0;
+  double? FIRMASENETBUAY = 0.0;
+}
